@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<p style="line-height: 110%;">
-Lecturer. 
+
+<font size="1">Lecturer.</font> 
   
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
-</p>
+
 
 
 A data-driven personal website
