@@ -15,9 +15,9 @@ College of Computer Science and Technology, Taiyuan University of Technology
 Email: hzming11@163.com
 
 
-<font face='Verdana'>Zhaoming Hu</font>
+Biography
 ======
-Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China since July 2025. He received the Ph.D. degree in School of Computer Science, Beijing University of Technology, Beijing, China under the supervision of [Prof. Yunjie Liu](https://ieeexplore.ieee.org/author/37537574300) (Academician of the Chinese Academy of Engineering) in June 2025. He has been a Visiting Student with the school of Electronic Engineering and Computer Science, Queen Mary University of London, U.K. under the supervision of [Prof. Yuanwei Liu](https://www.eee.hku.hk/~yuanwei/#highlights) from Dec.2022 to Dec.2023.  
+<font face='Arial'>Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China since July 2025. He received the Ph.D. degree in School of Computer Science, Beijing University of Technology, Beijing, China under the supervision of [Prof. Yunjie Liu](https://ieeexplore.ieee.org/author/37537574300) (Academician of the Chinese Academy of Engineering) in June 2025. He has been a Visiting Student with the school of Electronic Engineering and Computer Science, Queen Mary University of London, U.K. under the supervision of [Prof. Yuanwei Liu](https://www.eee.hku.hk/~yuanwei/#highlights) from Dec.2022 to Dec.2023.</font>
 
 Getting started
 ======
