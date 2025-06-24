@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-
+<p style="line-height: 1.8;">
 <font face='Calibri'>
-Lecturer   
-  
-College of Computer Science and Technology, Taiyuan University of Technology    
-  
+Lecturer<br>
+College of Computer Science and Technology, Taiyuan University of Technology<br>
 Email: hzming11@163.com
 </font>
+</p>
 
 
 # <font face='Verdana'>Biography</font>
