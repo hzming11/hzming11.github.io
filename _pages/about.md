@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Lecturer.
-letter-spacing: 1px;
+
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
 
 
