@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "Zhaoming Hu"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Lecturer.
-
+<p style="line-height: 1.6;">
+Lecturer. <br>
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
+</p>
 
 
 A data-driven personal website
