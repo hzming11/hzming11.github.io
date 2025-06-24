@@ -11,7 +11,7 @@ redirect_from:
 <font face='Calibri'>
 Lecturer   
   
-College of Computer Science and Technology, Taiyuan University of Technology  
+College of Computer Science and Technology, Taiyuan University of Technology   
 
 Email: hzming11@163.com
 </font>
