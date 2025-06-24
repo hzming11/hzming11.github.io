@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "<font face='Courier New'>About Me</font>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<font face='Arial' size="2">Lecturer.</font></font>
+<font face='Arial' size="2">Lecturer.</font>
   
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
 
