@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<font face='Arial' size="2">Lecturer.</font>
+<font face='Arial' size="2">Lecturer.1</font>
   
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
 
