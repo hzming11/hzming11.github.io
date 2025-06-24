@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer
+Lecturer.
 
 College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
 
