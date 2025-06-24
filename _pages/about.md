@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-Lecturer.1
+Lecturer
   
-College of Computer Science and Technology (College of Big Data), Taiyuan University of Technology.
+College of Computer Science and Technology, Taiyuan University of Technology
 
+Email: hzming11@163.com
 
 
 A data-driven personal website
