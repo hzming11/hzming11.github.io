@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font face='Verdana'>About Me</font>"
+title: "<font face='Verdana'>Zhaoming Hu</font>"
 author_profile: true
 redirect_from: 
   - /about/
