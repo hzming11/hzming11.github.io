@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Lecturer
+<font face='Arial'>Lecturer
   
 College of Computer Science and Technology, Taiyuan University of Technology
 
-Email: hzming11@163.com
+Email: hzming11@163.com</font>
 
 
 Biography
