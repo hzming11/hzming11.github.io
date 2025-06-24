@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 
-<font face='Calibri'>Lecturer</font>
-<br/>
-<font face='Calibri'>College of Computer Science and Technology, Taiyuan University of Technology</font>
-<br/>
-<font face='Calibri'>Email: hzming11@163.com</font>
+<font face='Calibri'>Lecturer</font><br>
+<font face='Calibri'>College of Computer Science and Technology, Taiyuan University of Technology</font><br>
+<font face='Calibri'>Email: hzming11@163.com</font><br>
 
 
 Biography
