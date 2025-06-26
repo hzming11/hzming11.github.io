@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="line-height: 1.8;">
-<font face='Calibri'>
+<font face='Calibri' size="4">
 Lecturer<br>
 College of Computer Science and Technology, Taiyuan University of Technology<br>
 Email: hzming11@163.com
