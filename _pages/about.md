@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="line-height: 1.8;">
-<font face='Calibri' size="4" color=Black>
+<font face='Calibri' size="3.75" color=Black>
 Lecturer<br>
 College of Computer Science and Technology, Taiyuan University of Technology<br>
 Email: hzming11@163.com
@@ -17,19 +17,19 @@ Email: hzming11@163.com
 
 
 # <font face='Arial' size="4.75" color=SteelBlue>Biography</font>
-<font face='Calibri' size="4" color=Black>Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China since Jul. 2025. He received the Ph.D. degree in School of Computer Science, Beijing University of Technology, Beijing, China under the supervision of </font>[*<font face='Calibri' size="4" color=Blue >Prof. Yunjie Liu</font>*](https://ieeexplore.ieee.org/author/37537574300) <font face='Calibri' size="4" color=Black>(Academician of the Chinese Academy of Engineering) in Jun. 2025. He has been a Visiting Student with the school of Electronic Engineering and Computer Science, Queen Mary University of London, U.K. under the supervision of </font>[*<font face='Calibri' size="4" color=Blue>Prof. Yuanwei Liu</font>*](https://www.eee.hku.hk/~yuanwei/#highlights) <font face='Calibri' size="4" color=Black>(IEEE Fellow) from Dec. 2022 to Dec. 2023. He has published more than 20 papers in top international conferences and SCI journals in the field of network communications and artificial intelligence. He serves as a reviewer for many important journals and conferences in the field of network communications and artificial intelligence, such as TMC, TNSE, IoT-J, TCOM, Globecom and ICC, etc.</font> 
+<font face='Calibri' size="3.75" color=Black>Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China since Jul. 2025. He received the Ph.D. degree in School of Computer Science, Beijing University of Technology, Beijing, China under the supervision of </font>[*<font face='Calibri' size="4" color=Blue >Prof. Yunjie Liu</font>*](https://ieeexplore.ieee.org/author/37537574300) <font face='Calibri' size="4" color=Black>(Academician of the Chinese Academy of Engineering) in Jun. 2025. He has been a Visiting Student with the school of Electronic Engineering and Computer Science, Queen Mary University of London, U.K. under the supervision of </font>[*<font face='Calibri' size="4" color=Blue>Prof. Yuanwei Liu</font>*](https://www.eee.hku.hk/~yuanwei/#highlights) <font face='Calibri' size="4" color=Black>(IEEE Fellow) from Dec. 2022 to Dec. 2023. He has published more than 20 papers in top international conferences and SCI journals in the field of network communications and artificial intelligence. He serves as a reviewer for many important journals and conferences in the field of network communications and artificial intelligence, such as TMC, TNSE, IoT-J, TCOM, Globecom and ICC, etc.</font> 
 
 # <font face='Arial' size="4.75" color=SteelBlue>Research Interests</font>
-<font face='Calibri' size="4" color=Black>Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).</font>
+<font face='Calibri' size="3.75" color=Black>Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).</font>
 
-* <font face='Calibri' size="4" color=Red>Artifical intelligence:</font> <font face='Calibri' size="4" color=Black>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)</font>
-* <font face='Calibri' size="4" color=Red>network communications:</font> <font face='Calibri' size="4" color=Black>reconfigurable intelligent surface (RIS), edge computing, edge caching</font>
+* <font face='Calibri' size="3.75" color=Red>Artifical intelligence:</font> <font face='Calibri' size="4" color=Black>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)</font>
+* <font face='Calibri' size="3.75" color=Red>network communications:</font> <font face='Calibri' size="4" color=Black>reconfigurable intelligent surface (RIS), edge computing, edge caching</font>
 
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
-<span style="white-space: nowrap;"><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
+<span style="white-space: nowrap;"><font face='Calibri' size="3.75" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
 <p style="line-height: 1.8;">
-<font face='Calibri' size="4" color=Red>Journal Articles</font><br>
+<font face='Calibri' size="3.75" color=Red>Journal Articles</font><br>
 
 <font face='Calibri' size="3.75" color=Black>
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
@@ -65,7 +65,7 @@ Email: hzming11@163.com
 1. Xingjuan Cai, Zhaoming Hu, Peng Zhao, WenSheng Zhang, Jinjun Chen, A hybrid recommendation system with many-objective evolutionary, Expert Systems with Applications, 2020, 159: 113648.（SCI Q1 ToP，IF= 6.954）<br>
 </font>
 
-<font face='Calibri' size="4" color=Red>Conference Articles</font><br>
+<font face='Calibri' size="3.75" color=Red>Conference Articles</font><br>
 
 <font face='Calibri' size="3.75" color=Black>
 4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
