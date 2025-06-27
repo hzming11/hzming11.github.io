@@ -31,7 +31,9 @@ Email: hzming11@163.com
 <font face='Calibri' size="4" color=Black>
 Journal Articles
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)
+  
 15. Zhaoming Hu, Chao Fang, Ruikang Zhong, Yuanwei Liu, Joint physical and network layers design for STARS-assisted multi-cellular edge caching, IEEE Transactions on Wireless Communications, 23(11): 17446 - 17460, 2024. (SCI Q1 ToP，IF= 10.4)
+  
 14. Zhaoming Hu, Ruikang Zhong, Chao Fang, and Yuanwei Liu, Caching-at-STARS: the Next Generation Edge Caching, IEEE Transactions on Wireless Communications, 23(8): 8372-8387, 2024. (SCI Q1 ToP，IF= 10.4)
 13. Zhaoming Hu, Chao Fang, Zhuwei Wang, Shu-Ming Tseng and Mianxiong Dong, Many-Objective Optimization Based-Content Popularity Prediction for Cache-Assisted Cloud-Edge-End Collaborative IoT Networks, IEEE Internet of Things Journal, 11(1): 1190-1200, 2024. (SCI Q1 ToP，IF= 10.6，ESI Highly Cited Paper)
 12. Chao Fang, Zhaoming Hu, Xiangheng Meng, Shanshan Tu, Zhuwei Wang, Deze Zeng, Wei Ni, Song Guo, and Zhu Han, DRL-Driven Joint Task Offloading and Resource Allocation for Energy-Efficient Content Delivery in Cloud-Edge Cooperation Networks, IEEE Transactions on Vehicular Technology, 72(12): 16195-16207, 2023. (SCI Q2，IF=6.8)
