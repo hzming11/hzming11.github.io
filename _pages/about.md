@@ -169,7 +169,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .publication-number {
             font-weight: bold;
-            color: #2c3e50;
+            color: black;
             margin-right: 5px;
             font-size: 14px;
         }
@@ -192,14 +192,14 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             margin-top: 40px;
             padding-top: 20px;
             border-top: 1px solid #e0e0e0;
-            color: #7f8c8d;
+            color: black;
             font-size: 14px;
         }
         
         .impact-factor {
             display: inline-block;
             background: #e3f2fd;
-            color: #0d47a1;
+            color: black;
             padding: 2px 6px;
             border-radius: 4px;
             font-size: 13px;
@@ -210,7 +210,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         .top-journal {
             display: inline-block;
             background: #ffebee;
-            color: #c62828;
+            color: black;
             padding: 2px 6px;
             border-radius: 4px;
             font-size: 13px;
@@ -221,7 +221,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         .ccf-rank {
             display: inline-block;
             background: #e8f5e9;
-            color: #2e7d32;
+            color: black;
             padding: 2px 6px;
             border-radius: 4px;
             font-size: 13px;
@@ -232,13 +232,13 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         /* 新增样式 - 控制各元素字体大小 */
         .authors {
             font-size: 14px;
-            color: #3a506b;
+            color: black;
         }
         
         .paper-title {
             font-size: 16px;
             font-weight: bold;
-            color: #1a3a6c;
+            color: black;
             display: inline-block;
             margin: 3px 0;
         }
@@ -246,72 +246,17 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         .journal-name {
             font-size: 14px;
             font-style: italic;
-            color: #8b4513;
+            color: black;
         }
         
         .publication-details {
             font-size: 13px;
-            color: #666;
+            color: black;
         }
         
         .conference-info {
             font-size: 13px;
-            color: #5d5d5d;
-        }
-        
-        /* 字体大小控制面板 */
-        .font-control-panel {
-            background-color: #f8f9fa;
-            border-radius: 8px;
-            padding: 15px;
-            margin: 20px 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-        
-        .control-group {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-bottom: 15px;
-        }
-        
-        .control-item {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
-        .control-item label {
-            font-size: 14px;
-            color: #495057;
-        }
-        
-        .control-item input[type="range"] {
-            width: 120px;
-        }
-        
-        .font-size-display {
-            display: inline-block;
-            min-width: 30px;
-            text-align: center;
-            font-size: 13px;
-            color: #1976d2;
-            font-weight: bold;
-        }
-        
-        .reset-button {
-            background-color: #1976d2;
-            color: white;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 13px;
-            transition: background-color 0.3s;
-        }
-        
-        .reset-button:hover {
-            background-color: #0d47a1;
+            color: black;
         }
         
         @media (max-width: 768px) {
