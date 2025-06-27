@@ -57,7 +57,7 @@ Email: hzming11@163.com
    
 4. Zhihua Cui, Peng Zhao, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen, An Improved Matrix Factorization based Model for Many-objective Optimization Recommendation, Information Sciences, 579: 1-14, 2021.（SCI Q1，IF= 8.1）<br>
    
-3. 蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生，基于高维多目标优化的多无人机协同航迹规划，中国科学：信息科学（中文版），537: 148-161, 2020.（CCF A）<br>
+3. <font face='微软雅黑' size="3.75" color=Black>蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生，基于高维多目标优化的多无人机协同航迹规划，中国科学：信息科学（中文版），537: 148-161, 2020.（CCF A）<br>
    
 2. Xingjuan Cai, Zhaoming Hu, Jinjun Chen, A many-objective optimization recommendation algorithm based on knowledge mining, Information Sciences, 537: 148-161, 2020.（SCI Q1 ToP，IF= 8.1）<br>
    
