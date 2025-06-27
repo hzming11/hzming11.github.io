@@ -28,7 +28,8 @@ Email: hzming11@163.com
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
 <span style="white-space: nowrap;"><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
-<font face='Calibri' size="4" color=Black>
+
+<font face='Calibri' size="3.75" color=Black>
 Journal Articles<br>
   
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
@@ -67,13 +68,13 @@ Journal Articles<br>
 <font face='Calibri' size="4" color=Black>
 Conference Articles
   
-4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.
+4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
    
-3. Chao Fang, Yihui Yang, Hang Xu, Tianyi Zhang, Xiaolin Qin, Zhaoming Hu, Deep Reinforcement Learning-Based Traffic Engineering in Cloud-Edge-End Collaboration Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.
+3. Chao Fang, Yihui Yang, Hang Xu, Tianyi Zhang, Xiaolin Qin, Zhaoming Hu, Deep Reinforcement Learning-Based Traffic Engineering in Cloud-Edge-End Collaboration Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
    
-2. Zhaoming Hu, Ruikang Zhong, Chao Fang, Yuanwei Liu, Exploiting Caching-at-STARS: Joint caching replacement and hybrid beamforming (IEEE Globecom), Kuala Lumpur, Malaysia, 2023.12.4-12.8.
+2. Zhaoming Hu, Ruikang Zhong, Chao Fang, Yuanwei Liu, Exploiting Caching-at-STARS: Joint caching replacement and hybrid beamforming (IEEE Globecom), Kuala Lumpur, Malaysia, 2023.12.4-12.8.<br>
    
-1. Chao Fang, Xiangheng Meng, Zhaoming Hu, Xiaoping Yang, Fangmin Xu, Peng Li, Mianxiong Dong, DRL-Based Green Task Offloading for Content Distribution in NOMA-Enabled Cloud-Edge-End Cooperation Environments (IEEE ICC), Rome, Italy, 2023.5.28-6.1.
+1. Chao Fang, Xiangheng Meng, Zhaoming Hu, Xiaoping Yang, Fangmin Xu, Peng Li, Mianxiong Dong, DRL-Based Green Task Offloading for Content Distribution in NOMA-Enabled Cloud-Edge-End Cooperation Environments (IEEE ICC), Rome, Italy, 2023.5.28-6.1.<br>
 </font>
 
 
