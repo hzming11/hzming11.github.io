@@ -329,37 +329,13 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             
             <div class="section-title">Conference Articles</div>
             <ul class="publication-list">
-                <li class="publication-item">
-                    <span class="publication-number">4.</span> 
-                    <span class="authors">Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu</span>, 
-                    <span class="paper-title">"Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments"</span>, 
-                    <em class="journal-name">IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT)</em>, 
-                    <span class="conference-info">Wuhan, China, 2022.8.19-8.21.</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">3.</span> 
-                    <span class="authors">Chao Fang, Yihui Yang, Hang Xu, Tianyi Zhang, Xiaolin Qin, Zhaoming Hu</span>, 
-                    <span class="paper-title">"Deep Reinforcement Learning-Based Traffic Engineering in Cloud-Edge-End Collaboration Environments"</span>, 
-                    <em class="journal-name">IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT)</em>, 
-                    <span class="conference-info">Wuhan, China, 2022.8.19-8.21.</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">2.</span> 
-                    <span class="authors">Zhaoming Hu, Ruikang Zhong, Chao Fang, Yuanwei Liu</span>, 
-                    <span class="paper-title">"Exploiting Caching-at-STARS: Joint caching replacement and hybrid beamforming"</span>, 
-                    <em class="journal-name">IEEE Globecom</em>, 
-                    <span class="conference-info">Kuala Lumpur, Malaysia, 2023.12.4-12.8.</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">1.</span> 
-                    <span class="authors">Chao Fang, Xiangheng Meng, Zhaoming Hu, Xiaoping Yang, Fangmin Xu, Peng Li, Mianxiong Dong</span>, 
-                    <span class="paper-title">"DRL-Based Green Task Offloading for Content Distribution in NOMA-Enabled Cloud-Edge-End Cooperation Environments"</span>, 
-                    <em class="journal-name">IEEE ICC</em>, 
-                    <span class="conference-info">Rome, Italy, 2023.5.28-6.1.</span>
-                </li>
+4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
+   
+3. Chao Fang, Yihui Yang, Hang Xu, Tianyi Zhang, Xiaolin Qin, Zhaoming Hu, Deep Reinforcement Learning-Based Traffic Engineering in Cloud-Edge-End Collaboration Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
+   
+2. Zhaoming Hu, Ruikang Zhong, Chao Fang, Yuanwei Liu, Exploiting Caching-at-STARS: Joint caching replacement and hybrid beamforming (IEEE Globecom), Kuala Lumpur, Malaysia, 2023.12.4-12.8.<br>
+   
+1. Chao Fang, Xiangheng Meng, Zhaoming Hu, Xiaoping Yang, Fangmin Xu, Peng Li, Mianxiong Dong, DRL-Based Green Task Offloading for Content Distribution in NOMA-Enabled Cloud-Edge-End Cooperation Environments (IEEE ICC), Rome, Italy, 2023.5.28-6.1.
             </ul>
         </main>
     </div>
