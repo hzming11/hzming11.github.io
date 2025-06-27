@@ -28,10 +28,9 @@ Email: hzming11@163.com
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
 <span style="white-space: nowrap;"><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
+<font face='Calibri' size="4" color=Black>Journal Articles</font>
 
 <font face='Calibri' size="3.75" color=Black>
-Journal Articles<br>
-  
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
   
 15. Zhaoming Hu, Chao Fang, Ruikang Zhong, Yuanwei Liu, Joint physical and network layers design for STARS-assisted multi-cellular edge caching, IEEE Transactions on Wireless Communications, 23(11): 17446 - 17460, 2024. (SCI Q1 ToP，IF= 10.4)<br>
@@ -65,9 +64,9 @@ Journal Articles<br>
 1. Xingjuan Cai, Zhaoming Hu, Peng Zhao, WenSheng Zhang, Jinjun Chen, A hybrid recommendation system with many-objective evolutionary, Expert Systems with Applications, 2020, 159: 113648.（SCI Q1 ToP，IF= 6.954）<br>
 </font>
 
-<font face='Calibri' size="4" color=Black>
-Conference Articles
-  
+<font face='Calibri' size="4" color=Black>Conference Articles</font>
+
+<font face='Calibri' size="3.75" color=Black>
 4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
    
 3. Chao Fang, Yihui Yang, Hang Xu, Tianyi Zhang, Xiaolin Qin, Zhaoming Hu, Deep Reinforcement Learning-Based Traffic Engineering in Cloud-Edge-End Collaboration Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
