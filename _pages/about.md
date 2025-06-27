@@ -294,6 +294,16 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         <main>
             <div class="section-title">Journal Articles</div>
+            <ul class="publication-list">
+            <li class="publication-item">
+                    <span class="publication-number">16.</span>
+                    <span class="authors">Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong</span>
+                    <span class="paper-title">"Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services"</span>
+                    <em class="journal-name">IEEE Transactions on Network Science and Engineering</em>
+                    <span class="publication-details">12(3), 1911-1925, 2025</span>
+                    <span class="impact-factor">(SCI Q2，IF= 6.5)</span>
+                </li>
+              </ul>
             <font face='Calibri' size="3.75" color=Black>
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
   
