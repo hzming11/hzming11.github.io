@@ -26,7 +26,7 @@ Email: hzming11@163.com
 * <font face='Calibri' size="4" color=Red>network communications:</font> <font face='Calibri' size="4" color=Black>reconfigurable intelligent surface (RIS), edge computing, edge caching</font>
 
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
-<nobr><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</nobr>
+<span style="white-space: nowrap;"><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
 <font face='Calibri' size="4" color=Black>
 Journal Articles<br>
