@@ -28,7 +28,7 @@ Email: hzming11@163.com
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
 <span style="white-space: nowrap;"><font face='Calibri' size="4" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
-<font face='Calibri' size="4" color=Red>Journal Articles</font>
+<font face='Calibri' size="4" color=Red>Journal Articles</font><br>
 
 <font face='Calibri' size="3.75" color=Black>
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
@@ -57,7 +57,7 @@ Email: hzming11@163.com
    
 4. Zhihua Cui, Peng Zhao, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen, An Improved Matrix Factorization based Model for Many-objective Optimization Recommendation, Information Sciences, 579: 1-14, 2021.（SCI Q1，IF= 8.1）<br>
    
-3. <font face='微软雅黑' size="3.75" color=Black>蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生，基于高维多目标优化的多无人机协同航迹规划，中国科学：信息科学（中文版），537: 148-161, 2020.（CCF A）</font><br>
+3. <font face='宋体' size="3.75" color=Black>蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生，基于高维多目标优化的多无人机协同航迹规划，中国科学：信息科学（中文版）</font>，537: 148-161, 2020.（CCF A）<br>
    
 2. Xingjuan Cai, Zhaoming Hu, Jinjun Chen, A many-objective optimization recommendation algorithm based on knowledge mining, Information Sciences, 537: 148-161, 2020.（SCI Q1 ToP，IF= 8.1）<br>
    
