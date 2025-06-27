@@ -41,12 +41,10 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 </div>
 
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学术出版物列表 - 流式排版</title>
     <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;700&family=SimHei&display=swap" rel="stylesheet">
     <style>
         * {
@@ -164,7 +162,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             border-bottom: 1px dashed #e0e0e0;
             text-align: justify;
             hyphens: auto;
-            font-size: 16px;
+            font-size: 14px;
             line-height: 1.7;
         }
         
@@ -174,14 +172,16 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .publication-number {
             font-weight: bold;
-            color: #2c3e50;
+            color: black;
             margin-right: 8px;
             display: inline;
+            font-size: 14px;
         }
         
         .authors {
-            color: #3a506b;
+            color: black;
             display: inline;
+            font-size: 14px;
         }
         
         .authors::after {
@@ -190,8 +190,9 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .paper-title {
             font-weight: bold;
-            color: #1a3a6c;
+            color: black;
             display: inline;
+            font-size: 14px;
         }
         
         .paper-title::after {
@@ -200,8 +201,9 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .journal-name {
             font-style: italic;
-            color: #8b4513;
+            color: black;
             display: inline;
+            font-size: 14px;
         }
         
         .journal-name::after {
@@ -209,8 +211,9 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         }
         
         .publication-details {
-            color: #666;
+            color: black;
             display: inline;
+            font-size: 14px;
         }
         
         .publication-highlight {
@@ -232,14 +235,14 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             margin-top: 40px;
             padding-top: 20px;
             border-top: 1px solid #e0e0e0;
-            color: #7f8c8d;
+            color: black;
             font-size: 14px;
         }
         
         .impact-factor {
             display: inline-block;
             background: #e3f2fd;
-            color: #0d47a1;
+            color: black;
             padding: 3px 8px;
             border-radius: 4px;
             font-size: 14px;
@@ -250,7 +253,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         .top-journal {
             display: inline-block;
             background: #ffebee;
-            color: #c62828;
+            color: black;
             padding: 3px 8px;
             border-radius: 4px;
             font-size: 14px;
@@ -261,7 +264,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         .ccf-rank {
             display: inline-block;
             background: #e8f5e9;
-            color: #2e7d32;
+            color: black;
             padding: 3px 8px;
             border-radius: 4px;
             font-size: 14px;
@@ -270,7 +273,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         }
         
         .conference-info {
-            color: #5d5d5d;
+            color: black;
             display: inline;
         }
         
@@ -333,7 +336,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 <body>
     <div class="container">
         <header>
-            <h1>学术出版物列表</h1>
             <div class="header-decoration"></div>
             <div class="scholar-link">
                 <span>See a full list of publications on </span>
@@ -530,10 +532,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
                 </li>
             </ul>
         </main>
-        
-        <footer>
-            <p>© 2025 学术出版物列表 | 流式排版优化版本</p>
-        </footer>
     </div>
 </body>
 </html>
