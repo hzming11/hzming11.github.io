@@ -34,7 +34,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
       <span style="color: black;">deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)</span>
     </li>
     <li style="text-align: justify;">
-      <span style="color: red;">network communications:</span> 
+      <span style="color: red;">Network communications:</span> 
       <span style="color: black;">reconfigurable intelligent surface (RIS), edge computing, edge caching</span>
     </li>
   </ul>
@@ -213,6 +213,10 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             color: black;
             display: inline;
             font-size: 14px;
+        }
+
+        .publication-details::after {
+            content: ". ";
         }
         
         .publication-highlight {
