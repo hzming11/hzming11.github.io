@@ -240,7 +240,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .impact-factor {
             display: inline-block;
-            background: #e3f2fd;
             color: black;
             padding: 3px 8px;
             border-radius: 4px;
@@ -251,7 +250,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .top-journal {
             display: inline-block;
-            background: #ffebee;
             color: black;
             padding: 3px 8px;
             border-radius: 4px;
@@ -262,7 +260,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .ccf-rank {
             display: inline-block;
-            background: #e8f5e9;
             color: black;
             padding: 3px 8px;
             border-radius: 4px;
