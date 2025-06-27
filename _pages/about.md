@@ -23,6 +23,12 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 
 
 # <font face='Arial' size="4.75" color=SteelBlue>Research Interests</font>
+<p style="text-align: justify; font-family: Calibri; font-size: 15px; color: black;">
+Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).
+  <i style="color: red;">Artifical intelligence:</i>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)
+  <i style="color: red;">network communications:</i>reconfigurable intelligent surface (RIS), edge computing, edge caching
+</p>
+
 <font face='Calibri' size="3.75" color=Black>Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).</font>
 
 * <font face='Calibri' size="3.75" color=Red>Artifical intelligence:</font> <font face='Calibri' size="3.75" color=Black>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)</font>
