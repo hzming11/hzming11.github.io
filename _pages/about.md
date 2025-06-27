@@ -29,7 +29,7 @@ Email: hzming11@163.com
 <span style="white-space: nowrap;"><font face='Calibri' size="3.75" color=Black>See a full list of publications on </font>[<font face='Calibri' size="4" color=Blue >Google Scholar</font>](https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1).</span>
 
 <p style="line-height: 1.8;">
-<font face='Calibri' size="3.75" color=Red>Journal Articles</font><br>
+<font face='Calibri' size="4" color=Red>Journal Articles</font><br>
 
 <font face='Calibri' size="3.75" color=Black>
 16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
@@ -65,7 +65,7 @@ Email: hzming11@163.com
 1. Xingjuan Cai, Zhaoming Hu, Peng Zhao, WenSheng Zhang, Jinjun Chen, A hybrid recommendation system with many-objective evolutionary, Expert Systems with Applications, 2020, 159: 113648.（SCI Q1 ToP，IF= 6.954）<br>
 </font>
 
-<font face='Calibri' size="3.75" color=Red>Conference Articles</font><br>
+<font face='Calibri' size="4" color=Red>Conference Articles</font><br>
 
 <font face='Calibri' size="3.75" color=Black>
 4. Chao Fang, Hang Xu, Yulong Bai, Tianyi Zhang, Yihui Yang, Zhaoming Hu, Deep Reinforcement Learning-Based Joint Task Offloading in Cloud-Edge-End Cooperation Environments, IEEE International Conference on Frontiers of Electronics, Information and Computation Technologies (IEEE ICFEICT), Wuhan, China, 2022.8.19-8.21.<br>
