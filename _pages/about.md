@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- max-width: 1920px;
+
 <p style="line-height: 1.8;">
 <font face='Calibri' size="3.75" color=Black>
 Lecturer<br>
