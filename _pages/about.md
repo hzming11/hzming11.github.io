@@ -337,7 +337,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 <body>
     <div class="container">
         <header>
-            <div class="header-decoration"></div>
             <div class="scholar-link">
                 <span>See a full list of publications on </span>
                 <a href="https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1" target="_blank">Google Scholar</a>
