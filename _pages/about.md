@@ -294,162 +294,38 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         <main>
             <div class="section-title">Journal Articles</div>
-            <ul class="publication-list">
-                <li class="publication-item">
-                    <span class="publication-number">16.</span>
-                    <div class="publication-content">
-                        <div class="authors">Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong</div>
-                        <div class="title-container">
-                            <span class="paper-title">"Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services"</span>,
-                            <em class="journal-name">IEEE Transactions on Network Science and Engineering</em>,
-                        </div>
-                        <div class="publication-details">12(3), 1911-1925, 2025. 
-                            <span class="impact-factor">(SCI Q2，IF= 6.5)</span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">15.</span> 
-                    <span class="authors">Zhaoming Hu, Chao Fang, Ruikang Zhong, Yuanwei Liu</span>, 
-                    <span class="paper-title">"Joint physical and network layers design for STARS-assisted multi-cellular edge caching"</span>, 
-                    <em class="journal-name">IEEE Transactions on Wireless Communications</em>, 
-                    <span class="publication-details">23(11): 17446 - 17460, 2024.</span> 
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF= 10.4)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">14.</span> 
-                    <span class="authors">Zhaoming Hu, Ruikang Zhong, Chao Fang, and Yuanwei Liu</span>, 
-                    <span class="paper-title">"Caching-at-STARS: the Next Generation Edge Caching"</span>, 
-                    <em class="journal-name">IEEE Transactions on Wireless Communications</em>, 
-                    <span class="publication-details">23(8): 8372-8387, 2024.</span> 
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF= 10.4)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">13.</span> 
-                    <span class="authors">Zhaoming Hu, Chao Fang, Zhuwei Wang, Shu-Ming Tseng and Mianxiong Dong</span>, 
-                    <span class="paper-title">"Many-Objective Optimization Based-Content Popularity Prediction for Cache-Assisted Cloud-Edge-End Collaborative IoT Networks"</span>, 
-                    <em class="journal-name">IEEE Internet of Things Journal</em>, 
-                    <span class="publication-details">11(1): 1190-1200, 2024.</span> 
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF= 10.6)</span>
-                    <span class="publication-highlight">(ESI Highly Cited Paper)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">12.</span> 
-                    <span class="authors">Chao Fang, Zhaoming Hu, Xiangheng Meng, Shanshan Tu, Zhuwei Wang, Deze Zeng, Wei Ni, Song Guo, and Zhu Han</span>, 
-                    <span class="paper-title">"DRL-Driven Joint Task Offloading and Resource Allocation for Energy-Efficient Content Delivery in Cloud-Edge Cooperation Networks"</span>, 
-                    <em class="journal-name">IEEE Transactions on Vehicular Technology</em>, 
-                    <span class="publication-details">72(12): 16195-16207, 2023.</span> 
-                    <span class="impact-factor">(SCI Q2，IF=6.8)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">11.</span> 
-                    <span class="authors">Chao Fang, Hang Xu, Yihui Yang, Zhaoming Hu*, Shanshan Tu, Kaoru Ota, Zheng Yang, Mianxiong Dong, Zhu Han, F. Richard Yu, Yunjie Liu</span>, 
-                    <span class="paper-title">"Deep Reinforcement Learning Based Resource Allocation for Content Distribution in Fog Radio Access Networks"</span>, 
-                    <em class="journal-name">IEEE Internet of Things Journal</em>, 
-                    <span class="publication-details">9(18): 16874-16883, 2022.</span> 
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF=10.6)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">10.</span> 
-                    <span class="authors">Chao Fang, Tianyi Zhang, Jingjing Huang, Hang Xu, Zhaoming Hu, Yihui Yang, Zhuwei Wang, Zequan Zhou, and Xiling Luo</span>, 
-                    <span class="paper-title">"A DRL-Driven Intelligent Optimization Strategy for Resource Allocation in Cloud-Edge-End Cooperation Environments"</span>, 
-                    <em class="journal-name">Symmetry</em>, 
-                    <span class="publication-details">14(10): 2120, 2022.</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">9.</span> 
-                    <span class="authors">Chao Fang, Xiangheng Meng, Zhaoming Hu, Fangmin Xu, Deze Zeng, Mianxiong Dong, and Wei Ni</span>, 
-                    <span class="paper-title">"AI-Driven Energy-Efficient Content Task Offloading in Cloud-Edge-End Cooperation Networks"</span>, 
-                    <em class="journal-name">IEEE Open Journal of the Computer Society</em>, 
-                    <span class="publication-details">162-171, 2022.</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">8.</span> 
-                    <span class="authors">Zhaoming Hu, Yang Lan, Zhixia Zhang, Xingjuan Cai</span>, 
-                    <span class="paper-title">"A many-objective particle swarm optimization algorithm based on multiple criteria for hybrid recommendation system"</span>, 
-                    <em class="journal-name">KSII Transactions on Internet and Information Systems</em>, 
-                    <span class="publication-details">15(2): 442-460, 2021.</span> 
-                    <span class="impact-factor">(SCI Q3)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">7.</span> 
-                    <span class="authors">Jialei Xu, Zhixia Zhang, Zhaoming Hu, Lei Du, Xingjuan Cai</span>, 
-                    <span class="paper-title">"A many-objective optimized task allocation scheduling model in cloud computing"</span>, 
-                    <em class="journal-name">Applied Intelligence</em>, 
-                    <span class="publication-details">51: 3293-3310, 2021.</span>
-                    <span class="impact-factor">(SCI Q2，IF= 5.3)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">6.</span> 
-                    <span class="authors">Zhihua Cui, Zhixia Zhang, Zhaoming Hu, Shaojin Geng, Jinjun Chen.</span> 
-                    <span class="paper-title">"A Many-objective Optimization based Intelligent High performance Data Processing Model for Cyber-Physical-Social Systems"</span>, 
-                    <em class="journal-name">IEEE Transactions on Network Science and Engineering</em>, 
-                    <span class="publication-details">9(6): 3825-3834, 2021.</span>
-                    <span class="impact-factor">(SCI Q2，IF= 6.5)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">5.</span> 
-                    <span class="authors">Lijie Xie, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen.</span> 
-                    <span class="paper-title">"Explainable recommendation based on knowledge graph and multi-objective optimization".</span> 
-                    <em class="journal-name">Complex & Intelligent Systems</em>, 
-                    <span class="publication-details">7: 1241-1252, 2021.</span> 
-                    <span class="impact-factor">(SCI Q2，IF= 5.8)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">4.</span> 
-                    <span class="authors">Zhihua Cui, Peng Zhao, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen,</span> 
-                    <span class="paper-title">"An Improved Matrix Factorization based Model for Many-objective Optimization Recommendation"</span>, 
-                    <em class="journal-name">Information Sciences</em>, 
-                    <span class="publication-details">579: 1-14, 2021.</span>
-                    <span class="top-journal">(SCI Q1)</span>
-                    <span class="impact-factor">(IF= 8.1)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">3.</span> 
-                    <span class="authors chinese-text">蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生</span>,
-                    <span class="paper-title chinese-text">"基于高维多目标优化的多无人机协同航迹规划"</span>, 
-                    <em class="journal-name chinese-text">中国科学：信息科学（中文版）</em>, 
-                    <span class="publication-details chinese-text">537: 148-161, 2020.</span>
-                    <span class="ccf-rank">(CCF A)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">2.</span> 
-                    <span class="authors">Xingjuan Cai, Zhaoming Hu, Jinjun Chen</span>, 
-                    <span class="paper-title">"A many-objective optimization recommendation algorithm based on knowledge mining"</span>, 
-                    <em class="journal-name">Information Sciences</em>, 
-                    <span class="publication-details">537: 148-161, 2020.</span>
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF= 8.1)</span>
-                </li>
-                
-                <li class="publication-item">
-                    <span class="publication-number">1.</span> 
-                    <span class="authors">Xingjuan Cai, Zhaoming Hu, Peng Zhao, WenSheng Zhang, Jinjun Chen</span>, 
-                    <span class="paper-title">"A hybrid recommendation system with many-objective evolutionary"</span>, 
-                    <em class="journal-name">Expert Systems with Applications</em>, 
-                    <span class="publication-details">2020, 159: 113648.</span>
-                    <span class="top-journal">(SCI Q1 ToP)</span>
-                    <span class="impact-factor">(IF= 6.954)</span>
-                </li>
-            </ul>
+            <font face='Calibri' size="3.75" color=Black>
+16. Zhaoming Hu, Chao Fang, Zhuwei Wang, Jining Chen, Shu-Ming Tseng, Mianxiong Dong, Joint Content Caching and Request Routing for User-Centric Many-Objective Metaverse Services, IEEE Transactions on Network Science and Engineering, 12(3), 1911-1925, 2025. (SCI Q2，IF= 6.5)<br>
+  
+15. Zhaoming Hu, Chao Fang, Ruikang Zhong, Yuanwei Liu, Joint physical and network layers design for STARS-assisted multi-cellular edge caching, IEEE Transactions on Wireless Communications, 23(11): 17446 - 17460, 2024. (SCI Q1 ToP，IF= 10.4)<br>
+  
+14. Zhaoming Hu, Ruikang Zhong, Chao Fang, and Yuanwei Liu, Caching-at-STARS: the Next Generation Edge Caching, IEEE Transactions on Wireless Communications, 23(8): 8372-8387, 2024. (SCI Q1 ToP，IF= 10.4)<br>
+    
+13. Zhaoming Hu, Chao Fang, Zhuwei Wang, Shu-Ming Tseng and Mianxiong Dong, Many-Objective Optimization Based-Content Popularity Prediction for Cache-Assisted Cloud-Edge-End Collaborative IoT Networks, IEEE Internet of Things Journal, 11(1): 1190-1200, 2024. (SCI Q1 ToP，IF= 10.6，ESI Highly Cited Paper)<br>
+    
+12. Chao Fang, Zhaoming Hu, Xiangheng Meng, Shanshan Tu, Zhuwei Wang, Deze Zeng, Wei Ni, Song Guo, and Zhu Han, DRL-Driven Joint Task Offloading and Resource Allocation for Energy-Efficient Content Delivery in Cloud-Edge Cooperation Networks, IEEE Transactions on Vehicular Technology, 72(12): 16195-16207, 2023. (SCI Q2，IF=6.8)<br>
+    
+11. Chao Fang, Hang Xu, Yihui Yang, Zhaoming Hu*, Shanshan Tu, Kaoru Ota, Zheng Yang, Mianxiong Dong, Zhu Han, F. Richard Yu, Yunjie Liu, Deep Reinforcement Learning Based Resource Allocation for Content Distribution in Fog Radio Access Networks, IEEE Internet of Things Journal, 9(18): 16874-16883, 2022. (SCI Q1 ToP，IF=10.6)<br>
+    
+10. Chao Fang, Tianyi Zhang, Jingjing Huang, Hang Xu, Zhaoming Hu, Yihui Yang, Zhuwei Wang, Zequan Zhou, and Xiling Luo, A DRL-Driven Intelligent Optimization Strategy for Resource Allocation in Cloud-Edge-End Cooperation Environments, Symmetry, 14(10): 2120, 2022.<br>
+    
+9. Chao Fang, Xiangheng Meng, Zhaoming Hu, Fangmin Xu, Deze Zeng, Mianxiong Dong, and Wei Ni, AI-Driven Energy-Efficient Content Task Offloading in Cloud-Edge-End Cooperation Networks, IEEE Open Journal of the Computer Society, 162-171, 2022.<br>
+    
+8. Zhaoming Hu, Yang Lan, Zhixia Zhang, Xingjuan Cai, A many-objective particle swarm optimization algorithm based on multiple criteria for hybrid recommendation system, KSII Transactions on Internet and Information Systems, 15(2): 442-460, 2021. （SCI Q3）<br>
+   
+7. Jialei Xu, Zhixia Zhang, Zhaoming Hu, Lei Du, Xingjuan Cai, A many-objective optimized task allocation scheduling model in cloud computing, Applied Intelligence, 51: 3293-3310, 2021.（SCI Q2，IF= 5.3）<br>
+   
+6. Zhihua Cui, Zhixia Zhang, Zhaoming Hu, Shaojin Geng, Jinjun Chen. A Many-objective Optimization based Intelligent High performance Data Processing Model for Cyber-Physical-Social Systems, IEEE Transactions on Network Science and Engineering, 9(6): 3825-3834, 2021.（SCI Q2，IF= 6.5）<br>
+   
+5. Lijie Xie, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen. Explainable recommendation based on knowledge graph and multi-objective optimization. Complex & Intelligent Systems, 7: 1241–1252, 2021. （SCI Q2，IF= 5.8）<br>
+   
+4. Zhihua Cui, Peng Zhao, Zhaoming Hu, Xingjuan Cai, Wensheng Zhang, Jinjun Chen, An Improved Matrix Factorization based Model for Many-objective Optimization Recommendation, Information Sciences, 579: 1-14, 2021.（SCI Q1，IF= 8.1）<br>
+   
+3. <font face='黑体' size="3.5" color=Black>蔡星娟，胡钊鸣，王茜，张志霞，崔志华，张文生，基于高维多目标优化的多无人机协同航迹规划，中国科学：信息科学（中文版）</font>，537: 148-161, 2020.（CCF A）<br>
+   
+2. Xingjuan Cai, Zhaoming Hu, Jinjun Chen, A many-objective optimization recommendation algorithm based on knowledge mining, Information Sciences, 537: 148-161, 2020.（SCI Q1 ToP，IF= 8.1）<br>
+   
+1. Xingjuan Cai, Zhaoming Hu, Peng Zhao, WenSheng Zhang, Jinjun Chen, A hybrid recommendation system with many-objective evolutionary, Expert Systems with Applications, 2020, 159: 113648.（SCI Q1 ToP，IF= 6.954）<br>
             
             <div class="section-title">Conference Articles</div>
             <ul class="publication-list">
