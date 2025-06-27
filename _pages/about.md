@@ -41,12 +41,11 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 </div>
 
 # <font face='Arial' size="4.75" color=SteelBlue>Publications</font>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学术出版物列表 - 流式排版优化</title>
+    <title>学术出版物列表</title>
     <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;700&family=SimHei&display=swap" rel="stylesheet">
     <style>
         * {
@@ -163,48 +162,41 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             padding-bottom: 20px;
             border-bottom: 1px dashed #e0e0e0;
             text-align: justify;
-            font-size: 14px;
+            /* 文章相关信息字体大小设置为15px */
+            font-size: 15px;
             line-height: 1.7;
         }
         
         .publication-item:last-child {
-            font-size: 14px;
             border-bottom: none;
         }
         
         .publication-number {
             font-weight: bold;
-            color: black;
+            color: #2c3e50;
             margin-right: 8px;
-            font-size: 14px;
         }
         
         .publication-content {
-            color: black;
             display: inline;
-            font-size: 14px;
         }
         
         .authors {
-            color: black;
-            font-size: 14px;
+            color: #3a506b;
         }
         
         .paper-title {
             font-weight: bold;
-            color: black;
-            font-size: 14px;
+            color: #1a3a6c;
         }
         
         .journal-name {
             font-style: italic;
-            color: black;
-            font-size: 14px;
+            color: #8b4513;
         }
         
         .publication-details {
-            color: black;
-            font-size: 14px;
+            color: #666;
         }
         
         .publication-highlight {
@@ -218,7 +210,6 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .chinese-text {
             font-family: 'SimHei', 'Microsoft YaHei', sans-serif;
-            font-size: 14px;
         }
         
         footer {
@@ -226,13 +217,13 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             margin-top: 40px;
             padding-top: 20px;
             border-top: 1px solid #e0e0e0;
-            color: black;
+            color: #7f8c8d;
             font-size: 14px;
         }
         
         .impact-factor {
             background: #e3f2fd;
-            color: black;
+            color: #0d47a1;
             padding: 2px 6px;
             border-radius: 3px;
             font-size: 14px;
@@ -243,7 +234,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .top-journal {
             background: #ffebee;
-            color: black;
+            color: #c62828;
             padding: 2px 6px;
             border-radius: 3px;
             font-size: 14px;
@@ -254,7 +245,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         
         .ccf-rank {
             background: #e8f5e9;
-            color: black;
+            color: #2e7d32;
             padding: 2px 6px;
             border-radius: 3px;
             font-size: 14px;
@@ -264,8 +255,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         }
         
         .conference-info {
-            color: black;
-            font-size: 14px;
+            color: #5d5d5d;
         }
         
         /* 优化换行行为 */
@@ -319,7 +309,7 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             }
             
             .publication-item {
-                font-size: 15px;
+                font-size: 14px;
             }
             
             .impact-factor, .top-journal, .ccf-rank {
@@ -347,43 +337,19 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             margin: 15px auto;
             border-radius: 2px;
         }
-        
-        .publication-controls {
-            background: #f8f9fa;
-            border-radius: 8px;
-            padding: 15px;
-            margin: 20px 0;
-            text-align: center;
-        }
-        
-        .font-size-btn {
-            background: #1976d2;
-            color: white;
-            border: none;
-            padding: 8px 15px;
-            margin: 0 5px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 14px;
-            transition: all 0.3s;
-        }
-        
-        .font-size-btn:hover {
-            background: #0d47a1;
-            transform: translateY(-2px);
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
+            <h1>学术出版物列表</h1>
             <div class="header-decoration"></div>
             <div class="scholar-link">
                 <span>See a full list of publications on </span>
                 <a href="https://scholar.google.co.uk/citations?user=X5bNcZ0AAAAJ&hl=zh-CN&authuser=1" target="_blank">Google Scholar</a>
             </div>
         </header>
-          
+        
         <main>
             <div class="section-title">Journal Articles</div>
             <ul class="publication-list">
@@ -613,45 +579,11 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
                 </li>
             </ul>
         </main>
+        
+        <footer>
+            <p>© 2025 学术出版物列表</p>
+        </footer>
     </div>
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const baseFontSize = 16;
-            let currentFontSize = baseFontSize;
-            
-            // 获取所有出版物项目
-            const publicationItems = document.querySelectorAll('.publication-item');
-            
-            // 增大字体
-            document.getElementById('increase-font').addEventListener('click', function() {
-                if (currentFontSize < 20) {
-                    currentFontSize += 1;
-                    updateFontSize();
-                }
-            });
-            
-            // 减小字体
-            document.getElementById('decrease-font').addEventListener('click', function() {
-                if (currentFontSize > 12) {
-                    currentFontSize -= 1;
-                    updateFontSize();
-                }
-            });
-            
-            // 重置字体
-            document.getElementById('reset-font').addEventListener('click', function() {
-                currentFontSize = baseFontSize;
-                updateFontSize();
-            });
-            
-            // 更新字体大小
-            function updateFontSize() {
-                publicationItems.forEach(item => {
-                    item.style.fontSize = currentFontSize + 'px';
-                });
-            }
-        });
-    </script>
 </body>
 </html>
 
