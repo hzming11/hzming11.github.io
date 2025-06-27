@@ -604,6 +604,44 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
             </ul>
         </main>
     </div>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const baseFontSize = 16;
+            let currentFontSize = baseFontSize;
+            
+            // 获取所有出版物项目
+            const publicationItems = document.querySelectorAll('.publication-item');
+            
+            // 增大字体
+            document.getElementById('increase-font').addEventListener('click', function() {
+                if (currentFontSize < 20) {
+                    currentFontSize += 1;
+                    updateFontSize();
+                }
+            });
+            
+            // 减小字体
+            document.getElementById('decrease-font').addEventListener('click', function() {
+                if (currentFontSize > 12) {
+                    currentFontSize -= 1;
+                    updateFontSize();
+                }
+            });
+            
+            // 重置字体
+            document.getElementById('reset-font').addEventListener('click', function() {
+                currentFontSize = baseFontSize;
+                updateFontSize();
+            });
+            
+            // 更新字体大小
+            function updateFontSize() {
+                publicationItems.forEach(item => {
+                    item.style.fontSize = currentFontSize + 'px';
+                });
+            }
+        });
+    </script>
 </body>
 </html>
 
