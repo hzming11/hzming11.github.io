@@ -23,11 +23,21 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
 
 
 # <font face='Arial' size="4.75" color=SteelBlue>Research Interests</font>
-<p style="text-align: justify; font-family: Calibri; font-size: 15px; color: black;">
-Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).
-  <i style="color: red;">Artifical intelligence:</i>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)
-  <i style="color: red;">network communications:</i>reconfigurable intelligent surface (RIS), edge computing, edge caching
-</p>
+<div style="text-align: justify; font-family: Calibri; font-size: 14px; color: black;">
+  <p>Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).</p>
+  <ul style="list-style-type: none; padding-left: 1em; margin-left: 0;">
+    <li style="text-align: justify; position: relative; padding-left: 1em;">
+      <span style="position: absolute; left: 0; color: red;">*</span>
+      <span style="color: red;">Artifical intelligence:</span> 
+      <span>deep reinforcement learning (DRL), evolutionary computation (multi and many objectives evolutionary optimization)</span>
+    </li>
+    <li style="text-align: justify; position: relative; padding-left: 1em;">
+      <span style="position: absolute; left: 0; color: red;">*</span>
+      <span style="color: red;">network communications:</span> 
+      <span>reconfigurable intelligent surface (RIS), edge computing, edge caching</span>
+    </li>
+  </ul>
+</div>
 
 <font face='Calibri' size="3.75" color=Black>Zhaoming Hu specialises in AI for network (using AI techniques to solve problems in network communications) and network for AI (using networks to underpin AI training and reasoning).</font>
 
