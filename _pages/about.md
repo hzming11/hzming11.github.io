@@ -157,8 +157,8 @@ Zhaoming Hu is a Lecturer with the College of Computer Science and Technology, T
         }
         
         .publication-item {
-            margin-bottom: 20px;
-            padding-bottom: 12px;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
             border-bottom: 1px dashed #e0e0e0;
             text-align: justify;
             hyphens: auto;
