@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "<font face='Arial' color=Black>Zhaoming Hu</font>"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<font face='Arial' color=Black>Zhaoming Hu</font>
 
 <p style="line-height: 1.8;">
 <font face='Calibri' size="3.75" color=Black>
