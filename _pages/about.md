@@ -11,7 +11,7 @@ redirect_from:
 <font face='Calibri' size="3.75" color=Black>
 Lecturer<br>
 College of Computer Science and Technology, Taiyuan University of Technology<br>
-Email: hzming11@163.com
+Email: huzhaoming@tyut.edu.cn
 </font>
 </p>
 
