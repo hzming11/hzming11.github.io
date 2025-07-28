@@ -11,7 +11,7 @@ redirect_from:
 <font face='Calibri' size="3.75" color=Black>
 Lecturer<br>
 College of Computer Science and Technology, Taiyuan University of Technology<br>
-Email: huzhaoming@tyut.edu.cn
+Email: huzhaoming@tyut.edu.cn<br>
 ORCiD: https://orcid.org/0000-0002-1870-4167
 </font>
 </p>
