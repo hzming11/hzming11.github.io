@@ -12,6 +12,7 @@ redirect_from:
 Lecturer<br>
 College of Computer Science and Technology, Taiyuan University of Technology<br>
 Email: huzhaoming@tyut.edu.cn
+ORCiD: https://orcid.org/0000-0002-1870-4167
 </font>
 </p>
 
